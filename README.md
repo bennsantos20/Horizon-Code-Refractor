@@ -6,4 +6,5 @@ This is a portfolio containing refactored code in the CSS and HTML pages. I reor
 ![Portfolio Site](./assets/images/screenshot.png)
 
 
-# Deployed Site
+[Horizon Code Refractor](https://bennsantos20.github.io/Horizon-Code-Refractor/)
+
