@@ -1,10 +1,9 @@
 # Horizon-Code-Refractor
 
 # Description
-This is a temporary portfolio site that I used HTML 5 and CSS 3 in an effort to style and refactor the site.
+This is a portfolio containing refactored code in the CSS and HTML pages. I reorganized and clean up some code and elements that were repetitive and also added certain semantic elements to the HTML.
 
-![Portfolio Site]
-(/Users/benjaminsantos/gt/homework/Horizon-Code-Refractor/assets/images/screenshot.png)
+![Portfolio Site](./assets/images/screenshot.png)
 
 
 # Deployed Site
